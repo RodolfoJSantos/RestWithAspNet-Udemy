@@ -12,3 +12,17 @@ D:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAs
 D:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.2\RestWithAspNetUdemy.RazorTargetAssemblyInfo.cache
 D:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.2\RestWithAspNetUdemy.dll
 D:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.2\RestWithAspNetUdemy.pdb
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.2\RestWithAspNetUdemy.csprojAssemblyReference.cache
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.2\RestWithAspNetUdemy.csproj.CoreCompileInputs.cache
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.2\RestWithAspNetUdemy.RazorAssemblyInfo.cache
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.2\RestWithAspNetUdemy.RazorAssemblyInfo.cs
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.2\RestWithAspNetUdemy.AssemblyInfoInputs.cache
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.2\RestWithAspNetUdemy.AssemblyInfo.cs
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.2\RestWithAspNetUdemy.dll
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.2\RestWithAspNetUdemy.pdb
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.2\RestWithAspNetUdemy.deps.json
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.2\RestWithAspNetUdemy.runtimeconfig.json
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.2\RestWithAspNetUdemy.runtimeconfig.dev.json
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.2\RestWithAspNetUdemy.dll
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\bin\Debug\netcoreapp2.2\RestWithAspNetUdemy.pdb
+C:\projetos\ProjetoDo0aNuvem\RestWithAspNet-Udemy\RestWithAspNetUdemy\RestWithAspNetUdemy\obj\Debug\netcoreapp2.2\RestWithAspNetUdemy.RazorTargetAssemblyInfo.cache

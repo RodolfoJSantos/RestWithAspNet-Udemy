@@ -12096,11 +12096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projetos\\ProjetoDo0aNuvem\\RestWithAspNet-Udemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy.csproj",
+      "projectUniqueName": "C:\\projetos\\ProjetoDo0aNuvem\\RestWithAspNet-Udemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy.csproj",
       "projectName": "RestWithAspNetUdemy",
-      "projectPath": "D:\\projetos\\ProjetoDo0aNuvem\\RestWithAspNet-Udemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy.csproj",
+      "projectPath": "C:\\projetos\\ProjetoDo0aNuvem\\RestWithAspNet-Udemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy.csproj",
       "packagesPath": "C:\\Users\\Rodolfo\\.nuget\\packages\\",
-      "outputPath": "D:\\projetos\\ProjetoDo0aNuvem\\RestWithAspNet-Udemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy\\obj\\",
+      "outputPath": "C:\\projetos\\ProjetoDo0aNuvem\\RestWithAspNet-Udemy\\RestWithAspNetUdemy\\RestWithAspNetUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
